@@ -1,0 +1,6 @@
+{
+  "name": "ep-bukane-backend",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
